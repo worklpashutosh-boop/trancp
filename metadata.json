@@ -1,0 +1,8 @@
+{
+  "name": "IZHO — Luxury Fashion & Lifestyle Marketplace",
+  "description": "Shop curated Indian & contemporary luxury fashion, sarees, kurtis, dresses, menswear, footwear, fine jewellery, beauty, and home living at IZHO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
